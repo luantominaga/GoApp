@@ -1,4 +1,4 @@
-### Golang MySQL app (Agente Brasil)
+### Golang MySQL app
 
 #### Requisitos:
 
